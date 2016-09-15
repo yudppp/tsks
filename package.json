@@ -1,0 +1,19 @@
+{
+  "name": "tsks",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yudppp",
+  "license": "MIT",
+  "devDependencies": {
+    "child_process": "^1.0.2",
+    "findup-sync": "^0.4.2",
+    "minimist": "^1.2.0",
+    "node-emoji": "^1.4.1",
+    "pkginfo": "^0.4.0",
+    "resolve": "^1.1.7"
+  }
+}
