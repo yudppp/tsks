@@ -9,7 +9,7 @@
   },
   "author": "yudppp",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "child_process": "^1.0.2",
     "findup-sync": "^0.4.2",
     "minimist": "^1.2.0",
