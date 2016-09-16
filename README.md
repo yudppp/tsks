@@ -1,6 +1,8 @@
 # tsks
 
-Show task list. support npm, gulp, grunt.
+Show task list.
+
+Support npm, gulp, grunt, make, rake.
 
 ### How to use
 
