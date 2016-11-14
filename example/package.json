@@ -1,0 +1,17 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "tsks example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ../cli.js"
+  },
+  "author": "yudppp",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-print": "^2.0.1"
+  }
+}

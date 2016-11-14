@@ -1,0 +1,4 @@
+desc "print hello" 
+task :hello do
+  puts 'hello'
+end

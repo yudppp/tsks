@@ -1,3 +1,5 @@
+[![License](http://img.shields.io/:license-mit-brightgreen.svg?style=flat-square)](http://yudppp.mit-license.org)
+
 # tsks
 
 Show task list.

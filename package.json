@@ -5,6 +5,7 @@
   "main": "index.js",
   "bin": "cli.js",
   "scripts": {
+    "develop": "cd example && npm run test",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "yudppp",
