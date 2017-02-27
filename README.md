@@ -16,4 +16,13 @@ npm run start
 npm run build
 gulp watch
 gulp build
+$ tsks -e
+🐚 tsks
+? Which do you run task (Use arrow keys)
+❯ npm run test 
+  gulp print 
+  grunt jshint 
+  grunt default 
+  make hello 
+  rake hello 
 ```
