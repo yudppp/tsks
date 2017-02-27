@@ -1,6 +1,6 @@
 {
   "name": "tsks",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "",
   "main": "index.js",
   "bin": "cli.js",
@@ -13,6 +13,7 @@
   "dependencies": {
     "child_process": "^1.0.2",
     "findup-sync": "^0.4.2",
+    "inquirer": "^3.0.5",
     "minimist": "^1.2.0",
     "node-emoji": "^1.4.1",
     "pkginfo": "^0.4.0",
